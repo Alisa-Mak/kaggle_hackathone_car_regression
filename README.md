@@ -1,6 +1,6 @@
 # 2024 Kaggle Playground Series - Car Price Prediction
 
-Welcome to the 2024 Kaggle Playground Series! This repository contains the code and resources for the Kaggle competition "Predict Used Car Prices." The goal is to predict the prices of used cars based on various attributes provided in the dataset.
+This repository contains the code and resources for the Kaggle competition ["Predict Used Car Prices."](https://www.kaggle.com/competitions/playground-series-s4e9/overview) The goal is to predict the prices of used cars based on various attributes provided in the dataset.
 
 ## Used Car Price Prediction
 
@@ -12,7 +12,7 @@ Welcome to the 2024 Kaggle Playground Series! This repository contains the code 
 
 - **Competition Start**: August 31, 2024
 - **Competition End**: September 30, 2024
-- **Evaluation Metric**: Root Mean Squared Error (RMSE)
+- **Evaluation Metric**: Root Mean Squared Error (**RMSE**)
 - **Goal**: Predict the price of used cars based on the provided attributes.
 
 ## Dataset

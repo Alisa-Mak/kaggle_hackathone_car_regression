@@ -37,4 +37,17 @@ The dataset used in this competition was generated from a deep learning model tr
 | `clean_title` | Whether the car has a clean title (i.e., no legal issues)           |
 | `price`       | The target variable representing the car's price                    |
 
+Here’s a concise summary of the models used and their predictions that you can include in your README:
 
+### Models Used:
+- **Random Forest**: Implemented for initial predictions based on ensemble learning.
+- **XGBoost (XGB)**: Utilized for its high performance in regression tasks.
+- **Neural Networks (NN)**: Developed multiple architectures:
+  - **NN1**: Basic structure with standard layers.
+  - **NN2**: Enhanced with dropout layers for regularization.
+  - **NN3**: Deeper architecture for improved learning capacity.
+- **TabNet**: Applied for its ability to handle tabular data efficiently.
+- **CatBoost**: Used for its effectiveness with categorical features.
+
+### Predictions:
+- Generated predictions from the Random Forest, Neural Networks, and TabNet models to compare performance and accuracy.
